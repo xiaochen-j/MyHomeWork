@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>建党一百周年</title>
+<!-- TemplateEndEditable -->
+<link href="../s1.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="header">
+    <div id="logo">
+    <img src="../image/1.png"  width="348" height="74" alt=""/><img src="../image/6.png" width="752" height="74" alt=""/></div>
+  <div id="menu">
+     <nav><a href="#">伟大领袖</a><a href="#">百年党史</a><a href="#">风云人物</a><a href="#">觉醒年代</a><a href="#">共唱党歌</a><a href="#">新的征程</a>
+     </nav>     
+  </div>
+	<div id="banner">
+   <img src="../image/17.png" width="1100" height="300" alt=""/>
+   </div>
+</div>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<div id="main">
+  <div id="lujing"> 你现在的位置：<a href="#">首页</a></div>
+  <hr>
+  <div id="lef&gt;">
+    <div id="left">
+      <div id="search">
+        <form id="form1" name="form1" method="post">
+          站内搜素：
+          <input type="text" name="textfield" id="textfield">
+          <a href="#">
+            <input type="image" name="imageField2"  class="search1" src="../image/15.png">
+          </a>
+        </form>
+      </div>
+      <img src="../image/16.png" width="276" height="80" alt=""/>
+      <div id="calen">
+        <p id="lun2">辛丑年 牛丁酉月 壬午日</p>
+        <p id="lun1">贰零贰壹年拾月壹日</p>
+      </div>
+      <table width="256" border="1">
+        <tbody>
+          <tr class="t1">
+            <td width="30">一</td>
+            <td width="30">二</td>
+            <td width="30">三</td>
+            <td width="30">四</td>
+            <td width="34">五</td>
+            <td width="26">六</td>
+            <td width="30">日</td>
+          </tr>
+          <tr>
+            <td class="t2">27</td>
+            <td class="t2">28</td>
+            <td class="t2">29</td>
+            <td class="t2">30</td>
+            <td class="t4">1</td>
+            <td class="t3">2</td>
+            <td class="t3">3</td>
+          </tr>
+          <tr>
+            <td class="t3">4</td>
+            <td class="t3">5</td>
+            <td class="t3">6</td>
+            <td class="t3">4</td>
+            <td class="t3">8</td>
+            <td class="t3">9</td>
+            <td class="t3">10</td>
+          </tr>
+          <tr>
+            <td class="t3">11</td>
+            <td class="t3">12</td>
+            <td class="t3">13</td>
+            <td class="t3">14</td>
+            <td class="t3">15</td>
+            <td class="t3">16</td>
+            <td class="t3">17</td>
+          </tr>
+          <tr>
+            <td class="t3">18</td>
+            <td class="t3">19</td>
+            <td class="t3">20</td>
+            <td class="t3">21</td>
+            <td class="t3">22</td>
+            <td class="t3">23</td>
+            <td class="t3">24</td>
+          </tr>
+          <tr>
+            <td class="t3">25</td>
+            <td class="t3">26</td>
+            <td class="t3">27</td>
+            <td class="t3">28</td>
+            <td class="t3">29</td>
+            <td class="t3">30</td>
+            <td class="t3">31</td>
+          </tr>
+          <tr>
+            <td class="t2">1</td>
+            <td class="t2">2</td>
+            <td class="t2">3</td>
+            <td class="t2">4</td>
+            <td class="t2">5</td>
+            <td class="t2">6</td>
+            <td class="t2">7</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div id="center"> <img src="../image/11.png" width="78.5" height="36" alt=""/>
+      <ul>
+        <li><a href="#"><span>2021-07-07</span>石光银：干成治沙一件事，就算没白活</a></li>
+        <li><a href="#"><span>2021-07-15</span>王占山：百战老兵倾心传播红色基因</a></li>
+        <li><a href="#"><span>2021-07-02</span>奋斗百年路 启航新征程·“七一勋章”获得者｜“马背院士”</a></li>
+        <li><a href="#"><span>2021-07-14</span>吴天一：把根扎在青藏高原</a></li>
+        <li><a href="#"><span>2021-07-13</span>王兰花：唱响兰花芬芳的志愿者之歌</a></li>
+        <li><a href="#"><span>2021-07-14</span>“老百姓的事就是大事”（奋斗百年路 启航新征程·“七一勋章”获得者）</a></li>
+        <li><a href="#"><span>2021-07-02</span>张桂梅：改写大山女孩命运的“擎灯人” </a></li>
+        <li><a href="#"><span>2021-07-05</span>她，让这满城尽是“兰花”香 </a></li>
+        <li><a href="#"><span>2021-07-06</span>艾爱国：当工人就要当一个好工人</a></li>
+        <li><a href="#"><span>2021-06-29</span>“七一勋章”获得者|李大钊之孙李宏塔:"革命之后"的身份不是光环是责任</a></li>
+        <li><a href="#"><span>2021-06-29</span>“七一勋章”获得者|黄宝妹：90岁还在为国奉献的“纺织仙女”</a></li>
+      </ul>
+      <img src="../image/12.png" width="326" height="386" class="c" alt=""/></div>
+    <div id="right"><img src="../image/10.png" width="78.5" height="36" alt=""/>
+      <ul>
+        <li><a href="#"><span>2021-07-02</span>遵义青年立志走好新时代的长征路</a></li>
+        <li><a href="#"><span>2021-06-22</span>主题团日精准全覆盖，青少年党史学习“听懂、听进” 新疆共青团：党史小故事承载爱党爱国大道理</a></li>
+        <li><a href="#"><span>2021-06-21</span>传承党的百年光辉史基因 铸牢中华民族共同体意识 宁夏共青团：实学 真悟 有作为</a></li>
+        <li><a href="#"><span>2021-06-28</span>新疆生产建设兵团共青团：讲出兵团味，传承兵团魂</a></li>
+        <li><a href="#"><span>2021-05-26</span>江西：共青团搭台 青年唱戏</a></li>
+        <li><a href="#"><span>2021-06-09</span>自贸港提速 年轻人奔跑</a></li>
+        <li><a href="#"><span>2021-06-10</span>贵州：青少年走好新时代长征路</a></li>
+        <li><a href="#"><span>2021-06-09</span>自贸港提速 年轻人奔跑</a></li>
+        <li><a href="#"><span>2021-06-11</span>云南共青团：让党史课冒热气接地气聚人气</a></li>
+        <li><a href="#"><span>2021-06-17</span>广西：为乡村振兴点燃青年火种</a></li>
+        <li><a href="#"><span>2021-06-18</span>青海共青团：团支部动起来，学党史见真章</a></li>
+      </ul>
+      <img src="../image/13.png" width="326" height="390" class="c1" alt=""/></div>
+    <div class="c1"></div>
+  </div>
+</div>
+<!-- TemplateEndEditable -->
+<footer>伟大、光荣、正确的中国共产党万岁！<br>
+　　 伟大、光荣、英雄的中国人民万岁！
+</footer>
+</body>
+</html>

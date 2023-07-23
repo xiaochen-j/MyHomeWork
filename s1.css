@@ -1,0 +1,280 @@
+@charset "utf-8";
+body{
+	background:hsla(359,90%,45%,1.00);
+}
+*{
+    font-family:"宋体";
+	font-size: 12px;
+	padding: 0;
+	margin: 0;
+	border-width: 0px;
+	border-style:solid;
+}
+#header,#main,footer{
+	width: 1100px;
+	height: auto;
+	margin: 0 auto;
+	background-color:cornsilk;
+}
+#logo{
+	width:1100px;
+	height:74px;
+}
+nav{
+	width:1100px;
+	height:60px;
+}
+#start{
+	width: 1100px;
+	height:300px;
+}
+#main #left{
+	width: 276px;
+	height: auto;
+	margin: 10px;
+	float:left;
+}
+#center ul li span{
+	float :right;
+}
+#center{
+	width: 375px;
+	height: auto;
+	margin: 10px;
+	float: left;
+	text-align:lert;
+}
+#center #guojipho{
+	padding:30px;
+	border:red 3px;
+}
+#right ul li span{
+	float :right;
+}
+#right{
+	float: right;
+	width: 380px;
+	height:auto;
+	margin: 10px;
+	text-align: left;
+}
+#right .mmt{
+	font-size: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: "华文行楷";
+}
+#right .mma{
+	font-family: "楷体";
+	float: right;
+	padding-right: 5px;
+}
+#right .mmm{
+	padding-top: 5px;
+	font-family: "楷体";
+	font-size: 18px;
+}
+#right .mmf{
+	padding-top: 10px;
+	font-family: "楷体";
+	font-size: 18px;
+}
+.c1{
+	clear:both;
+}
+footer{
+	background: url(image/9.png);
+	height: 60px;
+	width: 960px;
+	padding-left: 140px;
+	clear: left;
+	padding-top: 20px;
+	line-height: 22px;
+	color:#333;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #333;
+	font-family:"楷体";
+	font-size: 20px;
+	text-align: center;
+}
+table{
+	line-height: 26px;
+	color: #333;
+	margin-top: 20px;
+	margin-left: 20px;
+	text-align: center;
+}
+table .t1{
+	font-weight: bold;
+	font-family:"华文琥珀";
+	background-color: gold;
+}
+table .t2{
+	background-color: gray;
+}
+table .t3{
+	background-color: antiquewhite;
+}
+table .t4{
+	background-color: red;
+}
+#main ul{
+	width: 320px;
+	padding-top: 10px;
+	list-style-type: none;
+	padding-left:15px;
+}
+table .t3:hover,table .t3.selected{  
+	color: #FFFFFF; 				
+	background-color: #cc0000;
+}
+#main ul li a {
+	color:black;
+	text-decoration: none;
+}#main ul li a:hover{
+	color: #333;
+	background-color: gold;
+}
+.c {
+	margin-top: 10px;
+	margin-left: 12px;
+}
+.c1 {
+	margin-top: 20px;
+	margin-left: 12px;
+}
+#menu{
+	background-color:hsla(359,100%,53%,1.00);
+	height: 60px;
+	width: 1100px;
+}
+#menu a {
+	font-family:"楷体";
+	color:hsla(58,87%,62%,10.00);
+	line-height:60px;
+	font-weight: bold;
+	margin-left: 40px;
+	text-decoration: none;
+	float: left;
+	font-size: 30px;
+}
+#menu a:hover,#menu a.selected{  
+	color: #FFFFFF; 				
+	background-color: #cc0000;
+}
+#lujing{
+	height: 30px;
+	width: 1100px;
+	font-family:"楷体";
+	font-size: 20px;
+	background-image: url(image/14.png)
+}
+#lujing a{
+	font-family:"楷体";
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+}
+#lujing a:hover,#lujing a.selected{  
+	color: #FFFFFF;				
+	background-color: #cc0000;
+}
+span{
+	float: left;
+}
+#search{
+	float:left;
+	color:#C31103;			
+	font-weight:bold;
+	line-height:20px;	
+ 	width: 276px;
+}
+#search #form1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#calen{
+	height: 40px;
+	line-height: 40px;
+	padding-top: 10px;
+	font-family:"华文行楷";
+	padding-left:5px;
+	padding-right: 5px;
+	font-size:40px; 
+}
+#lun2{
+	float: right;
+}
+#lord{
+	height: auto;
+	width: 735px;
+	margin-top: 15px;
+	float: left;
+	padding-bottom: 5px;
+	border: 3px solid hsla(359,100%,43%,1.00);
+}
+#imag1{
+	float:left;
+}
+#lord p {
+	padding-top: 5px;
+	padding-left: 5px;
+	line-height: 20px;
+	text-indent: 24px;
+}
+#lord{
+	height: auto;
+	width: 735px;
+	margin-top: 15px;
+	float: left;
+	padding-bottom: 5px;
+}
+#imag1{
+	float:left;
+}
+#lord p {
+	padding-left: 5px;
+	line-height: 20px;
+	text-indent: 24px;
+}
+#lord{
+	height: auto;
+	width: 760px;
+	margin-top: 15px;
+	float: left;
+	padding-bottom: 5px;
+}
+#imag1{
+	float:left;
+	padding-right: 10px;
+}
+#lord p {
+	text-align: justify;
+	line-height: 20px;
+	text-indent: 24px;
+}
+#pho{
+	text-align: center;
+	width: 735px;
+	height: auto;
+	margin-top: 15px;
+	float: left;
+	padding-bottom: 5px;
+	border: 5px solid red;
+}
+#pho .tlt{
+	padding-top: 10px;
+	width: 735px;
+	height: 40px;
+	font-family: "华文琥珀";
+	font-size: 30px;
+	color: hsla(359,100%,46%,1.00)
+}
+#biao2 .name{
+	font-family: "楷体";
+	font-size: 20px;
+}
+#guoge {
+	border: 2px solid hsla(359,100%,40%,1.00);
+}
